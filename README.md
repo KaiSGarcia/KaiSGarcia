@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+* Master's in Computational Linguistics, Uppsala University (2026, planned)
+* Bachelor's in Applied Linguistics, UCLA (2023)
+* Previously worked as a technology professional for the County of Los Angeles 
+* Currently studying NLP, statistics, and linear algebra at Uppsala
+* Looking to pursue a career in machine translation and LLM development
+* Personal interests: Travelling in Europe, geopolitics, photography, historical cooking
+* Fun fact: I have studied Latin, Spanish, Russian, and Mandarin
 <!--
 **KaiSGarcia/KaiSGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
